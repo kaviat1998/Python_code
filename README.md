@@ -1,1 +1,1 @@
-# Python_code
+print("Hello World!")
